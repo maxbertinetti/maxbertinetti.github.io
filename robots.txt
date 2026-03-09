@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Disallow: /darkpro-assets/
+Disallow: /thank-you.html
